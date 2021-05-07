@@ -1,0 +1,3 @@
+[submodule "jsfive"]
+	path = jsfive
+	url = https://github.com/usnistgov/jsfive.git
