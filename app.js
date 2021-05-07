@@ -1,0 +1,1 @@
+import * as hdf5 from './jsfive/index.js';
